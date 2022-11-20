@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> 保存并更新
+          Edit <code>src/App.js</code> 保存并更新112312
         </p>
         <a
           className="App-link"
